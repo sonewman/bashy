@@ -1,0 +1,1 @@
+Real simple module for doing Bash / Shell / CMDs which returns a single io stream for the process
