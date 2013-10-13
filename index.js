@@ -3,7 +3,7 @@ module.exports = bashy;
 
 var exec = require('child_process').exec
   // , spawn = require('child_process').spawn
-	, thru = require('./thru')
+	, thru = require('thru')
 ;
 
 function bashy (cmd, done) {

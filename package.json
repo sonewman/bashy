@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git@github.com/sonewman/bashy.git"
   },
+  "dependencies" : {
+    "thru": "git://github.com/sonewman/thru.git"
+  },
+
   "author": "Sam Newman",
   "license": "BSD",
   "bugs": {
