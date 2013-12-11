@@ -1,19 +1,15 @@
 {
   "name": "bashy",
-  "version": "0.0.1",
-  "description": "Quick simple module for doing bash / sh / cmdline stuff in node, returning a single io stream",
+  "version": "0.1.0",
+  "description": "Quick simple module for doing bash / sh / cmdline stuff in node, returning a single io stream. Caution this will only work with node >= 0.10.*",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "git@github.com/sonewman/bashy.git"
   },
-  "dependencies" : {
-    "thru": "git://github.com/sonewman/thru.git"
-  },
-
   "author": "Sam Newman",
   "license": "BSD",
   "bugs": {
